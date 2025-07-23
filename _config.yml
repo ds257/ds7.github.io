@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Diya Saraf"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Diya Saraf"
+description              : &description "MS CS student at USC"
 url                      : "https://ds257.github.io"
 baseurl                  : "/ds7.github.io"
 repository               : "ds257/ds7.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "hello i see you"
+  bio              : ""
   location         : "Los Angeles California"
   employer         : "USC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "diyasaraf2001@gmail.com" 
 
   # Academic websites
   academia         : # URL
