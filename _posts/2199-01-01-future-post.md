@@ -1,11 +1,51 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Some things about me'
+date: 2025-07-23
+permalink: /posts/2025/07/blog-post-1/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
+
+We often define ourselves by what we *do* — research, projects, papers. But underneath all that lives a quieter engine: what we love, what fuels us, and what we keep coming back to even when no one's watching. Here's a little window into mine.
+
+---
+
+### 🎬 Stories that Make You Think
+
+I'm endlessly drawn to documentaries. Not the ones that just present facts — but the ones that peel back the layers of how systems, people, and technologies interact. A good doc can change how you see the world in just 90 minutes.
+
+Some that have stuck with me:
+- *The Social Dilemma* — for making the abstract machinery of algorithms feel urgent and real
+- *Explained* — bite-sized brilliance on everything from the mind to money
+- *The Great Hack* — because data is political, whether we like it or not
+
+---
+
+### 🧩 The Puzzle Mindset
+
+If I had to pick a metaphor for how I like to think, it would be puzzles. There’s something deeply calming about the logic of constraints — whether it’s a grid-based puzzle, a messy research question, or a real-world problem.
+
+Give me a tangled problem and some time, and I’m happy.
+
+---
+
+### 📊 When Data Meets Humanity
+
+At the heart of my work is a fascination with digital society — how people behave online, what makes information spread, and where things go wrong. Misinformation, radicalization, influence campaigns — these are not just headlines to me, they’re puzzles with real-world stakes.
+
+What excites me is the chance to bring together data, theory, and empathy to try and understand the digital public sphere — and maybe even improve it.
+
+---
+
+### 🌌 Curiosity as a Compass
+
+What ties all of this together? Curiosity.
+
+I’m driven by questions more than answers, and by the feeling that there’s always more to uncover — in systems, in people, and in myself. Whether I’m untangling the spread of a false narrative or figuring out a clue in a logic puzzle, the joy is in the process.
+
+Thanks for reading! I’ll be sharing more reflections like this — alongside research — as this blog evolves.
+
