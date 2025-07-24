@@ -25,28 +25,30 @@ Work Experience
 ======
 * **Software Engineering Intern — Dell Technologies**  
   * *Summer 2024 | CI/CD Team & Encryption Team*  
-  * Designed and implemented CI/CD pipelines to streamline deployment across internal services  
-  * Contributed to secure infrastructure services on the Encryption team  
-  * Conducted testing and monitoring for production resilience and secure key handling
+  * Automated log parsing and error categorization in CI/CD pipelines using rule-based classification  
+  * Built dashboards to track deployment failure causes and system recovery times  
+  * Secured access to **HashiCorp Vault** and integrated secret management into encrypted pipeline components  
+
+* **Software Engineering Intern — Dell Technologies**  
+  * *Summer 2023 | Encryption Team*  
+  * Enhanced key rotation and encrypted storage workflows  
+  * Hardened cryptographic modules using token-based access protocols  
+  * Conducted internal audits and assisted with compliance review processes
 
 * **Teaching Assistant — Santa Clara University**
   * *Winter 2023 | CSCI 10: Introduction to Computer Science*
-    * Led Python-based lab sessions and helped students debug assignments  
-    * Held regular office hours and provided one-on-one academic support  
+    * Led Python labs and office hours to support foundational programming  
   * *Fall 2022 | CSCI 60: Abstract Data Types and Algorithms*
-    * Guided students through algorithm design and abstract problem solving  
-    * Helped structure assignment walkthroughs and grading schemes  
+    * Conducted walkthroughs on graph algorithms and recursion strategies  
 
 * **Course Grader — Santa Clara University**
-  * *2021–2023 | Courses: Data Structures, Algorithms, Intro to CS, Artificial Intelligence*
-  * Evaluated code and technical explanations with detailed feedback  
-  * Supported instructors in rubric calibration and academic integrity review
+  * *2021–2023 | Data Structures, Algorithms, Intro to CS, Artificial Intelligence*
+  * Graded technical assignments and maintained academic integrity  
 
 * **Undergraduate Researcher — Santa Clara University**
   * *2021–2024 | Trust, Safety, and Disinformation Lab*
-  * Investigated influence operations across Telegram and TikTok  
-  * Co-authored a conference paper on emoji usage and engagement patterns  
-  * Applied network science and NLP to track narrative coordination
+  * Published conference research on emoji-based engagement on TikTok  
+  * Analyzed narrative similarity and coordinated messaging on Telegram  
 
 Research Interests
 ======
@@ -59,12 +61,13 @@ Research Interests
 Technical Skills
 ======
 * **Languages**: Python, Java, C++, SQL, HTML/CSS  
-* **Tools**: Git, Docker, Jupyter, Bash, VS Code  
+* **Tools**: Git, Docker, HashiCorp Vault, Jupyter, Bash, VS Code  
 * **Libraries/Frameworks**: PyTorch, TensorFlow, scikit-learn, pandas, seaborn  
-* **Areas**: Machine learning, network science, NLP, data visualization
+* **Areas**: Machine learning, network science, NLP, CI/CD, secure infrastructure
+
 
 Service & Leadership
 ======
 * Member, **Tau Beta Pi** (National Engineering Honor Society)  
-* Member, **Phi Beta Kappa** and **Upsilon Pi Epsilon**  
+* Member, **Phi Beta Kappa** and **Upsilon Pi Epsilon**   
 * Mentor for undergraduate CS research and STEM outreach  
