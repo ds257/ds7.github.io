@@ -24,28 +24,29 @@ Education
 Work Experience
 ======
 * **Software Engineering Intern — Dell Technologies**  
-  * *Summer 2023 | CI/CD Team & Encryption Team*
-  * Designed automated CI/CD pipelines for internal deployment workflows  
-  * Contributed to encryption key management services and secure data workflows  
-  * Performed integration testing and security auditing for DevSecOps tools
+  * *Summer 2024 | CI/CD Team & Encryption Team*  
+  * Designed and implemented CI/CD pipelines to streamline deployment across internal services  
+  * Contributed to secure infrastructure services on the Encryption team  
+  * Conducted testing and monitoring for production resilience and secure key handling
 
 * **Teaching Assistant — Santa Clara University**
   * *Winter 2023 | CSCI 10: Introduction to Computer Science*
-    * Led Python labs and problem-solving sessions  
-    * Hosted office hours and debug support
+    * Led Python-based lab sessions and helped students debug assignments  
+    * Held regular office hours and provided one-on-one academic support  
   * *Fall 2022 | CSCI 60: Abstract Data Types and Algorithms*
-    * Facilitated labs and discussion-based recitations  
-    * Helped students transition from imperative to abstract thinking
+    * Guided students through algorithm design and abstract problem solving  
+    * Helped structure assignment walkthroughs and grading schemes  
 
 * **Course Grader — Santa Clara University**
   * *2021–2023 | Courses: Data Structures, Algorithms, Intro to CS, Artificial Intelligence*
-  * Delivered rubric-based feedback and helped identify curriculum improvements  
+  * Evaluated code and technical explanations with detailed feedback  
+  * Supported instructors in rubric calibration and academic integrity review
 
 * **Undergraduate Researcher — Santa Clara University**
   * *2021–2024 | Trust, Safety, and Disinformation Lab*
-  * Researched cross-platform influence operations and algorithmic harms  
-  * Published a conference paper on TikTok emoji use and engagement dynamics  
-  * Applied NLP and network analysis to large-scale Telegram datasets
+  * Investigated influence operations across Telegram and TikTok  
+  * Co-authored a conference paper on emoji usage and engagement patterns  
+  * Applied network science and NLP to track narrative coordination
 
 Research Interests
 ======
@@ -67,4 +68,3 @@ Service & Leadership
 * Member, **Tau Beta Pi** (National Engineering Honor Society)  
 * Member, **Phi Beta Kappa** and **Upsilon Pi Epsilon**  
 * Mentor for undergraduate CS research and STEM outreach  
-
