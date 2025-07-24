@@ -66,6 +66,5 @@ Service & Leadership
 ======
 * Member, **Tau Beta Pi** (National Engineering Honor Society)  
 * Member, **Phi Beta Kappa** and **Upsilon Pi Epsilon**  
-* Reviewer for IEEE peer-reviewed venues (2023–)  
 * Mentor for undergraduate CS research and STEM outreach  
 
